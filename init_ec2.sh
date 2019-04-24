@@ -20,3 +20,4 @@ sudo apt-get update
 sudo apt-get install -y tomcat7
 sudo sed -i 's:# JAVA_HOME=/usr/lib/jvm/java-6-openjdk/bin/java:JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64/jre:g' /etc/default/tomcat7
 
+
